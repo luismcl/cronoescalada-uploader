@@ -1,5 +1,5 @@
-# Cronoescalada.es Tracks Importer
-Java application to upload gpx files to the incredible site Cronoescalada.es
+# Cronoescalada.com Tracks Importer
+Java application to upload gpx files to the incredible site Cronoescalada.com
 
 Allow you to massive upload tour gpx files to the web, for example, you can request a zip with all you tracks from strava.com 
 (using the Download your data button on the https://www.strava.com/settings/profile page), then unzip it and use this application 
